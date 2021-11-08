@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "express-graphql": "^0.7.1",
     "express-handlebars": "^3.0.2",
-    "graphiql": "^0.13.0",
+    "graphiql": "^1.4.7",
     "graphql": "^14.2.1",
     "hbs": "^4.0.2",
     "jsonwebtoken": "^8.5.1",
